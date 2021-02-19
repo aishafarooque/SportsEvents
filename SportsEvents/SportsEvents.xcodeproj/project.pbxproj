@@ -195,6 +195,7 @@
 				TargetAttributes = {
 					C392E9CC25DF60BE0062A38A = {
 						CreatedOnToolsVersion = 12.4;
+						LastSwiftMigration = 1240;
 					};
 					C392E9E225DF60C10062A38A = {
 						CreatedOnToolsVersion = 12.4;
